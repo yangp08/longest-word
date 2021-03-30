@@ -1,6 +1,7 @@
 # game.py
 # pylint: disable=missing-docstring
 # pylint: disable=too-few-public-methods
+# test commit
 
 import string
 import random
